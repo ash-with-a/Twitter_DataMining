@@ -33,4 +33,4 @@ It is interesting to pull Tweets regarding a certain topic using the 'Keyword-Se
 
 
 
-This process is very much helpful to extract Feedback on a newly launched product, or a service. It serves as an extremely useful tool in terms of Marketing. Mining the users' opinions provides a successful solution in troubleshooting the issues in a deployed product, and to improve the features of it. New versions can be planned and built as many users leave their suggestions and expectations in their Tweets.
+This process is very much helpful to extract Feedback on a newly launched product, or a service. It serves as an extremely useful tool in terms of Marketing. Mining the users' opinions provides a successful solution in troubleshooting the issues associated with a deployed product, and to improve the features of it. New versions can be planned and built as many users leave their suggestions and expectations in their Tweets.

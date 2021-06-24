@@ -1,4 +1,4 @@
-#Twitter Data Mining using Python
+Twitter Data Mining using Python
 
 This project is intended to give insightful outcomes.
 
